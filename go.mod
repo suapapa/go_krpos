@@ -1,3 +1,3 @@
-module github.com/suapapa/go_krpos
+module github.com/suapapa/go/krpos
 
 go 1.14
