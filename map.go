@@ -1,3 +1,7 @@
+// copyright 2020 homin lee <homin.lee@suapapa.net>. all rights reserved.
+// use of this source code is governed by a bsd-style
+// license that can be found in the license file.
+
 package krpos
 
 var (
